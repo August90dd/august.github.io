@@ -1,0 +1,15 @@
+title: August's Blog
+email: august.90dd@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+    To see a World in a Grain of Sand, And a Heaven in a Wild Flower.
+    Hold Infinity in the palm of your hand, And Eternity in an hour.
+
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+github_username: ArtistH
+
+# Build settings
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
